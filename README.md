@@ -1,1 +1,1 @@
-# Bistro Boss lerver;
+# Bistro Boss server;
