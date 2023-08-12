@@ -86,7 +86,7 @@ run().catch(console.dir);
 
 
 app.get('/', (req, res) => {
-    res.send('BOSS IS SITTING..........................!')
+    res.send('BOSS IS SITTING............................!')
 })
 
 app.listen(port, () => {
