@@ -1,8 +1,9 @@
+
 # Bistro Boss
-* (ITS A CLIENT SIDE)
+* (ITS A SERVER SIDE)
 
 
-![Logo](https://i.ibb.co/7KH1976/Screenshot-485.png)
+![Logo](https://i.ibb.co/kG8BwPY/Screenshot-486.png)
 
 
 ## 🔗 Links
@@ -39,3 +40,4 @@
 #### add(num1, num2)
 
 Takes two numbers and returns the sum.
+
